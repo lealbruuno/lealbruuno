@@ -13,4 +13,4 @@ I currently work as a Systems Analyst 🚀
 #### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/lealbruuno/) 
-[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lealbruuno@gmail.com)](mailto:lealbruuno@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lealbruuno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lealbruuno@gmail.com)](mailto:lealbruuno@gmail.com)
