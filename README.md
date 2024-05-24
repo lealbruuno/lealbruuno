@@ -1,16 +1,12 @@
-### Hi, I'm Bruno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+### Olá, boas-vindas ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I'm a technology student.
-I currently work as a Systems Analyst 🚀
+Sou estudante de tecnologia e, atualmente, trabalho como Analista de Sistemas. Tenho conhecimento nas linguagens Javascript e Java e, atualmente, estou no início do aprendizado de Spring Boot. 🚀
 
-#### My current tools 
->🌎 Front-end Web with Reactjs 
+#### Habilidades:
 
->📡 Back-end with Nodejs
+`Reactjs` `Nodejs` `Javascript` `Java` `SQL` `MySQL` `Spring Boot` 
 
->🛠️ Javascript
+#### 💬 Conecte-se comigo
 
-#### 💬 Find me elsewhere
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/lealbruuno/) 
-[![Gmail Badge](https://img.shields.io/badge/-lealbruuno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lealbruuno@gmail.com)](mailto:lealbruuno@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lealbruuno/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:lealbruuno@gmail.com)
